@@ -1,0 +1,8 @@
+# Ignoring all pdf files
+*.pdf
+
+# Excluding env files
+.env
+
+# Excluding cache files
+/__pycache__

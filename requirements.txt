@@ -1,2 +1,10 @@
-anthropic
-pypdf
+python-dotenv 
+pypdf 
+langchain 
+langchain-openai 
+langchain-community
+anthropic 
+neo4j 
+spacy
+faiss-cpu
+faiss-gpu
